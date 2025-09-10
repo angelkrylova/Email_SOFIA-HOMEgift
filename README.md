@@ -2,7 +2,7 @@
   <div align="center">
     <h1>Email-письмо адаптирован под мобильную версию</p>
 
-<img src="https://github.com/angelkrylova/Email_SOFIA-HOMEgift/blob/main/screen.jpg" align="center" />
+<img src="https://github.com/angelkrylova/Email_SOFIA-HOMEgift/blob/main/screen.jpg" align="center" width="600"/>
     </div>
 
 </div>
